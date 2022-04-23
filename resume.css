@@ -22,3 +22,9 @@
 .round_img{
   border-radius: 50%;
 }
+
+.main_pic{
+  width: 10%;
+  height: auto;
+  object-fit: contain;
+}
